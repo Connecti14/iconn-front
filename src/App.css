@@ -1,0 +1,23 @@
+
+body{
+    background: #620606;
+}
+.sigin-m-auto{
+    margin:3rem auto;
+}
+.margin-bottom{
+    margin-bottom: 4rem;
+}
+
+.bg-gray-800 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(31 41 55 / var(--tw-bg-opacity));
+    background: #060683!important;
+}
+.blog-button-style{
+    width: 31% !important;
+}
+.date-style{
+    width: 70%;
+    text-align: end;
+}
